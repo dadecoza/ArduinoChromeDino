@@ -46,7 +46,6 @@ void calibrate() {
   Serial.println(lt);
 }
 
-
 void punch() {
   pinMode(dir, HIGH);
   for (int i=0; i<30; i++) {
