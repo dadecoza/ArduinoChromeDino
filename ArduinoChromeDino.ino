@@ -33,7 +33,6 @@ void home() {
 
 void calibrate() {
   Serial.println("Calibrating LDR...");
-  Serial.println(lt);
   for (int i=0; i<512; i++) {
     cr = analogRead(ldr);
     if (cr < lt) {
@@ -61,7 +60,6 @@ void punch() {
   }
 }
 
-// the loop function runs over and over again forever
 void loop()
 { 
   cr = analogRead(ldr);
