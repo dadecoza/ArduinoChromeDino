@@ -1,2 +1,5 @@
 # ArduinoChromeDino
-Arduino playing Chrome Dino using LDR and Stepper motor
+Arduino playing Chrome Dino using LDR and floppy drive stepper ...
+
+Youtube video ...
+[![IMAGE Youtube](http://i3.ytimg.com/vi/t7JUhdxLgbE/maxresdefault.jpg)](https://www.youtube.com/watch?v=t7JUhdxLgbE)
